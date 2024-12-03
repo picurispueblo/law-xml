@@ -10,7 +10,7 @@
       <xml-bulk>https://github.com/picurispueblo/law-xml</xml-bulk>
       <html-bulk>https://github.com/picurispueblo/law-html</html-bulk>
       <static-assets>https://github.com/picurispueblo/law-static-assets</static-assets>
-      <html/>
+      <html>https://law.picurispueblo.org</html>
     </canonical-urls>
   </meta>
   <xi:include href="./us/nsn/picurispueblo/council/code/index.xml"/>
