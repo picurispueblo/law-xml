@@ -14,4 +14,20 @@
     </canonical-urls>
   </meta>
   <xi:include href="./us/nsn/picurispueblo/council/code/index.xml"/>
+  <collection name="us/nsn/picurispueblo/council/resolutions">
+    <heading>Resolutions</heading>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2019/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2018/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2016/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2015/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2014/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2013/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2010/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2009/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2008/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2007/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2006/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2005/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2000/index.xml"/>
+  </collection>
 </library>
