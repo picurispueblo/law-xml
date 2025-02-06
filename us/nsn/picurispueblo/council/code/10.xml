@@ -53,34 +53,13 @@
       <heading>Definitions.</heading>
       <text>"Abandon" means when a parent or extended family leaves a child without adequate communication or fails to support a child and there is no indication of the parent(s) or extended family's willingness to assume the parental role(s) consistently for a period of no less than six (6) months.</text>
       <text>"Abuse" includes physical, emotional, psychological and sexual abuse and are defined as follows.</text>
-      <para>
-        <num>a.</num>
-        <text>"Physical abuse" includes placing a minor knowingly, intentionally, or negligently in a situation that may endanger his/her life or health; knowingly or intentionally torturing, beating, cruelly confining or punishing a minor;</text>
-      </para>
-      <para>
-        <num>b.</num>
-        <text>"Emotional abuse" includes systematic patterns of belittling, scapegoating, or other non-physical forms of openly hostile or rejecting actions, as well as excessive non- physical discipline and verbal threats or other forms of maltreatment such as abandonment, beating and sexual assault;</text>
-      </para>
-      <para>
-        <num>c.</num>
-        <text>"Sexual abuse" means criminal sexual penetration, incest, criminal sexual contact and non-contact sexual exploitation which are defined as follows:</text>
-        <para>
-          <num>1.</num>
-          <text>"Criminal sexual contact of a minor" is when a person unlawfully and intentionally touches or applies force to the intimate parts of a minor who is under eighteen (18) years of age, or causes that minor to touch his/her intimate parts;</text>
-        </para>
-        <para>
-          <num>2.</num>
-          <text>"Criminal sexual penetration of a minor" is when a person unlawfully and intentionally causes a minor who is under eighteen (18) years of age, to engage in sexual intercourse, cunnilingus, fellatio or anal intercourse or causes penetration, to any extent and with any object, of the genital or anal openings of another whether or not there is any emission, through the use of coercion that results in personal injury to the victim;</text>
-        </para>
-        <para>
-          <num>3.</num>
-          <text>"Incest" is when a person knowingly marries or has sexual intercourse with a person within the following degrees of blood relationship: parents and children, including grandparents and grandchildren of every degree; brothers and sisters of the half, as well as of the whole blood; uncles and nieces/nephews; aunts and nephews/nieces; first degree cousins;</text>
-        </para>
-        <para>
-          <num>4.</num>
-          <text>"Non-contact sexual exploitation" is committed when an adult, for their sexual gratification: exposes intimate parts of their body, including the genitals, anus or breasts, to a minor; forces a minor to watch sexual acts or sexual violence; forces the minor to perform sexual acts while being watched by the adult; forces the minor to listen to threats and/or sexual details; or, watches a minor undress.</text>
-        </para>
-      </para>
+      <text class="text-indent-1">a. "Physical abuse" includes placing a minor knowingly, intentionally, or negligently in a situation that may endanger his/her life or health; knowingly or intentionally torturing, beating, cruelly confining or punishing a minor;</text>
+      <text class="text-indent-1">b. "Emotional abuse" includes systematic patterns of belittling, scapegoating, or other non-physical forms of openly hostile or rejecting actions, as well as excessive non- physical discipline and verbal threats or other forms of maltreatment such as abandonment, beating and sexual assault;</text>
+      <text class="text-indent-1">c. "Sexual abuse" means criminal sexual penetration, incest, criminal sexual contact and non-contact sexual exploitation which are defined as follows:</text>
+      <text class="text-indent-2">1. "Criminal sexual contact of a minor" is when a person unlawfully and intentionally touches or applies force to the intimate parts of a minor who is under eighteen (18) years of age, or causes that minor to touch his/her intimate parts;</text>
+      <text class="text-indent-2">2. "Criminal sexual penetration of a minor" is when a person unlawfully and intentionally causes a minor who is under eighteen (18) years of age, to engage in sexual intercourse, cunnilingus, fellatio or anal intercourse or causes penetration, to any extent and with any object, of the genital or anal openings of another whether or not there is any emission, through the use of coercion that results in personal injury to the victim;</text>
+      <text class="text-indent-2">3. "Incest" is when a person knowingly marries or has sexual intercourse with a person within the following degrees of blood relationship: parents and children, including grandparents and grandchildren of every degree; brothers and sisters of the half, as well as of the whole blood; uncles and nieces/nephews; aunts and nephews/nieces; first degree cousins;</text>
+      <text class="text-indent-2">4. "Non-contact sexual exploitation" is committed when an adult, for their sexual gratification: exposes intimate parts of their body, including the genitals, anus or breasts, to a minor; forces a minor to watch sexual acts or sexual violence; forces the minor to perform sexual acts while being watched by the adult; forces the minor to listen to threats and/or sexual details; or, watches a minor undress.</text>
       <text>"Adult" is a person eighteen (18) years of age or older who is subject to the jurisdiction of the Pueblo of Picuris.</text>
       <text>"Child" is a person under fourteen (14) years of age.</text>
       <text>"Custodian" is a person other than a parent or guardian who is providing food, shelter, and supervision to a child.</text>
@@ -97,35 +76,14 @@
       <text>"Juvenile Offender" is a person who commits a delinquent act prior to their eighteenth (18th) birthday.</text>
       <text>"Legal Custody" is a legal status created by a Court that vests in a person the right and duty to protect the custody of a minor, the right and duty to protect, train and discipline the minor and to provide him/her with food, shelter, education and ordinary medical care, all subject to the powers, rights, duties and responsibilities of the guardian of the minor and subject to any remaining parental rights and duties; an individual granted legal custody of a minor shall exercise his/her rights and responsibilities as custodian personally unless otherwise authorized by the Court entering the order.</text>
       <text>"Minor" is a person under eighteen (18) years of age. "Minor-in-Need-of-Care" is a minor who is:</text>
-      <para>
-        <num>a.</num>
-        <text>Neglected by a parent(s), guardian(s), Indian custodian(s), custodian(s) or other care-provider; or</text>
-      </para>
-      <para>
-        <num>b.</num>
-        <text>Abused by a parent(s), guardian(s), Indian custodian(s), custodian(s) or other care-provider; or</text>
-      </para>
-      <para>
-        <num>c.</num>
-        <text>A status offender.</text>
-      </para>
+      <text class="text-indent-1">a. Neglected by a parent(s), guardian(s), Indian custodian(s), custodian(s) or other care-provider; or</text>
+      <text class="text-indent-1">b. Abused by a parent(s), guardian(s), Indian custodian(s), custodian(s) or other care-provider; or</text>
+      <text class="text-indent-1">c. A status offender.</text>
       <text>"Neglect" occurs when a minor:</text>
-      <para>
-        <num>a.</num>
-        <text>Has no parent(s), guardian(s), Indian custodian(s), custodian(s), or extended family member available and willing to care for him/her;</text>
-      </para>
-      <para>
-        <num>b.</num>
-        <text>Has suffered, or is likely to certainly suffer a physical injury, inflicted upon him/her by other than accidental means, which causes or creates a substantial risk of death, disfigurement or impairment of bodily functions; or</text>
-      </para>
-      <para>
-        <num>c.</num>
-        <text>Has not been provided with food, clothing, shelter, medical care, education or supervision adequate for his/her needs by his/her parent(s), guardian(s), Indian custodian(s) or custodian(s); or</text>
-      </para>
-      <para>
-        <num>d.</num>
-        <text>Has committed delinquent acts as a result of parental pressure, guidance, or approval.</text>
-      </para>
+      <text class="text-indent-1">a. Has no parent(s), guardian(s), Indian custodian(s), custodian(s), or extended family member available and willing to care for him/her;</text>
+      <text class="text-indent-1">b. Has suffered, or is likely to certainly suffer a physical injury, inflicted upon him/her by other than accidental means, which causes or creates a substantial risk of death, disfigurement or impairment of bodily functions; or</text>
+      <text class="text-indent-1">c. Has not been provided with food, clothing, shelter, medical care, education or supervision adequate for his/her needs by his/her parent(s), guardian(s), Indian custodian(s) or custodian(s); or</text>
+      <text class="text-indent-1">d. Has committed delinquent acts as a result of parental pressure, guidance, or approval.</text>
       <text>"Parent" includes a natural or adoptive parent but does not include persons whose parental rights have been terminated, nor does it include the unwed father whose paternity has not been acknowledged or established.</text>
       <text>"Permanency Planning" is the procedure by which a permanent home is to be provided to every child, first, if possible, with the child(ren)'s parent(s) and, if that is not feasible within a reasonable time, with another person or family.</text>
       <text>"Probable Cause" is reasonable cause or reasonable grounds to believe a fact, supported by sufficient evidence.</text>
@@ -134,18 +92,9 @@
       <text>"Restitution" is community service or financial reimbursement to the victim by the minor as ordered by the Court. It may include actual repairs done by the minor to the victim's damaged property. Financial reimbursement is limited to: actual damages for injury; loss of property; actual expenses for medical, psychiatric, and psychological treatment for injury to a person; and lost wages from physical injuries which are the direct result of the delinquent act.</text>
       <text>"Shelter Care" is a home or living facility used as a temporary living place for a minor pending the return of the minor to his/her family or his/her placement in a residential facility designed for long-term placement.</text>
       <text>"Status Offender" is a minor who:</text>
-      <para>
-        <num>a.</num>
-        <text>Does not comply with the requirements of the compulsory school attendance Chapter of this Code; or</text>
-      </para>
-      <para>
-        <num>b.</num>
-        <text>Disobeys, continually and habitually, the reasonable and lawful demands of his/her parent, guardian or custodian and is beyond parental control; or</text>
-      </para>
-      <para>
-        <num>c.</num>
-        <text>Has left the home of his/her parent, guardian, or custodian without consent and has remained away for at least twenty-four (24) hours.</text>
-      </para>
+      <text class="text-indent-1">a. Does not comply with the requirements of the compulsory school attendance Chapter of this Code; or</text>
+      <text class="text-indent-1">b. Disobeys, continually and habitually, the reasonable and lawful demands of his/her parent, guardian or custodian and is beyond parental control; or</text>
+      <text class="text-indent-1">c. Has left the home of his/her parent, guardian, or custodian without consent and has remained away for at least twenty-four (24) hours.</text>
     </section>
   </container>
   <container>
@@ -2798,7 +2747,6 @@
       <para>
         <num>B.</num>
         <text>A judicial determination by the Tribal Court.</text>
-        <text>§<cite path="10|17|10-17-3">10-17-3</cite>.	Proceedings to Establish Parentage and Compel Support.</text>
       </para>
     </section>
     <section>
@@ -2842,7 +2790,7 @@
       </para>
       <para>
         <num>E.</num>
-        <text>Nothing in <cite path="10|17|10-17-2">this Section</cite> shall preclude an action in the Tribal Court to establish parentage or support. A final ruling in the Children's Court on the matter will be binding in the Tribal Court and a final ruling in the Tribal Court on the matter will be binding in the Children's Court, as consistent with the rules of the Court.</text>
+        <text>Nothing in this Section shall preclude an action in the Tribal Court to establish parentage or support. A final ruling in the Children's Court on the matter will be binding in the Tribal Court and a final ruling in the Tribal Court on the matter will be binding in the Children's Court, as consistent with the rules of the Court.</text>
       </para>
       <para>
         <num>F.</num>

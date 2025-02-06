@@ -66,11 +66,26 @@
       <para>
         <num>B.</num>
         <text>Purpose:    The general purposes of this Code are to:</text>
-        <text>1)	finance, implement, regulate, and enforce environmental standards and criteria, orders, and permit conditions, and exercise comprehensive Tribal regulatory authority over all solid waste and hazardous waste disposal matters within the exterior boundaries of the Pueblo of Picuris;</text>
-        <text>2)	protect fundamental Tribal cultural, ceremonial, religious, fishery, and economic stability of residential, agricultural, commercial, industrial, forest, wetlands, riparian and environmentally sensitive lands within the exterior boundaries of the Pueblo of Picuris;</text>
-        <text>3)	prevent the deterioration of the environment and increase the standard of living, quality of life, health, safety and welfare of all persons within the exterior boundaries of the Pueblo of Picuris;</text>
-        <text>4)	provide and promote Tribal environmental protection and services within the Pueblo of Picuris and to regulate environmental activities under principles of Tribal sovereignty; and</text>
-        <text>5)	prevent air, water and land from solid and hazardous waste pollution, including contamination of the Tribe's aquifers, ground waters, surface waters, drinking water supplies and other natural resources.</text>
+        <para>
+          <num>(1)</num>
+          <text>finance, implement, regulate, and enforce environmental standards and criteria, orders, and permit conditions, and exercise comprehensive Tribal regulatory authority over all solid waste and hazardous waste disposal matters within the exterior boundaries of the Pueblo of Picuris;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>protect fundamental Tribal cultural, ceremonial, religious, fishery, and economic stability of residential, agricultural, commercial, industrial, forest, wetlands, riparian and environmentally sensitive lands within the exterior boundaries of the Pueblo of Picuris;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>prevent the deterioration of the environment and increase the standard of living, quality of life, health, safety and welfare of all persons within the exterior boundaries of the Pueblo of Picuris;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>provide and promote Tribal environmental protection and services within the Pueblo of Picuris and to regulate environmental activities under principles of Tribal sovereignty; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>prevent air, water and land from solid and hazardous waste pollution, including contamination of the Tribe's aquifers, ground waters, surface waters, drinking water supplies and other natural resources.</text>
+        </para>
       </para>
       <para>
         <num>C.</num>
@@ -459,28 +474,79 @@
       <para>
         <num>(A)</num>
         <text>Site Considerations.</text>
-        <text>1)	Floodplains. If a solid waste disposal site or landfill is located within a 100 year floodplain, the owner or operator must demonstrate that the MSWLF will not restrict the flow of a 100 year flood, reduce temporary storage capacity of the floodplain or result in any washout of solid waste which would pose a hazard to human health or the environment.</text>
-        <text>2)	Wetlands. "Wetlands" means those areas which are defined in 40 C.F.R. §232.2(r) and include, but are not limited to, swamps, marshes, bogs, and similar areas, and are defined as those areas that are inundated or saturated by surface or groundwater at a frequency ad duration sufficient to support, and that under normal conditions do support, a prevalence of vegetation typically adapted for life in saturated soil conditions. No MSWLF shall be located in wetlands, unless the owner/operator can make the demonstrations as required under the Federal criteria set forth in 40 C.F.R. §258.12. The Pueblo of Picuris Environment Department may, in its discretion, however, refuse to permit an MSWLF in any areas which are wetlands as defined herein.</text>
-        <text>3)	Fault Areas. No solid waste disposal facility or landfill shall be located within 200 feet (60 meters) of a fault that has had displacement in Holocene time. For purposes of <cite path="11|1|11-1-13">this section</cite>:</text>
-        <text>a)	"Fault" means any fracture or a zone of fractures in any material along which strata on one side have been displaced with respect to that on the other side.</text>
-        <text>b)	"Displacement" means the relative movement of two sides of a fault measured in any direction.</text>
-        <text>c)	"Holocene" means the most recent epoch of the Quaternary period extending from the end of the Pleistocene Epoch to the present.</text>
-        <text>4)	Seismic Impact Zone. No solid waste disposal facility or landfill shall be located in a seismic impact zone unless the owner/operator demonstrates to the satisfaction of the Pueblo of Picuris Environment Department, and the Pueblo of Picuris Environment Department finds, that all containment structures including liners, leachate collection systems and surface water control systems, are designed to resist the maximum peak ground acceleration associated with the maximum credible earthquake. For purposes of <cite path="11|1|11-1-13">this Section</cite>, "seismic impact zones" are defined as areas having a 10 percent or greater probability that the maximum expected horizontal acceleration in lithifield earth material, expressed as a percentage of the earth's gravitational pull (g), will exceed 0.10 g in 250 years.</text>
-        <text>5)	Unstable Areas. No solid waste disposal facility or landfill shall be located in an unstable area. "Unstable area" means a location that is susceptible to natural or human-induced events or forces capable of impairing the integrity of some or all of the landfill structural components responsible for preventing releases from a landfill. Unstable areas can include poor foundation conditions, areas susceptible to mass movements, and Karst terrains.</text>
-        <text>6)	Bodies of Water. No solid waste disposal site or landfill shall be located within 1,000 feet of a lake, pond, slough, river, stream, or other body of water. To the greatest extent possible, MSWLFs will be located substantially greater distances from any surface water of significance.</text>
-        <text>7)	Adverse Impact. No MSWLF shall be located in a manner that will cause significant adverse impact to recreational opportunities, wildlife habitat or populations or Pueblo of Picuris aesthetics.</text>
-        <text>8)	Dwellings. To the greatest extent possible, taking into account the requirements of this Ordinance, no MSWLF shall be located within 3,000 feet of a dwelling inhabited at the time the site is created.</text>
-        <text>9)	Domestic Water Well. No solid waste disposal site or landfill shall be located within 2,000 feet of a domestic water well, unless the Pueblo of Picuris Environment Department determines in writing that the well will not be contaminated by the site and establishes a water monitoring program for the well, or the Pueblo of Picuris Environment Department provides a substitute source of equal or better convenience and quality.</text>
+        <para>
+          <num>(1)</num>
+          <text>Floodplains. If a solid waste disposal site or landfill is located within a 100 year floodplain, the owner or operator must demonstrate that the MSWLF will not restrict the flow of a 100 year flood, reduce temporary storage capacity of the floodplain or result in any washout of solid waste which would pose a hazard to human health or the environment.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Wetlands. "Wetlands" means those areas which are defined in 40 C.F.R. §232.2(r) and include, but are not limited to, swamps, marshes, bogs, and similar areas, and are defined as those areas that are inundated or saturated by surface or groundwater at a frequency ad duration sufficient to support, and that under normal conditions do support, a prevalence of vegetation typically adapted for life in saturated soil conditions. No MSWLF shall be located in wetlands, unless the owner/operator can make the demonstrations as required under the Federal criteria set forth in 40 C.F.R. §258.12. The Pueblo of Picuris Environment Department may, in its discretion, however, refuse to permit an MSWLF in any areas which are wetlands as defined herein.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Fault Areas. No solid waste disposal facility or landfill shall be located within 200 feet (60 meters) of a fault that has had displacement in Holocene time. For purposes of this section:</text>
+          <para>
+            <num>(a)</num>
+            <text>"Fault" means any fracture or a zone of fractures in any material along which strata on one side have been displaced with respect to that on the other side.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>"Displacement" means the relative movement of two sides of a fault measured in any direction.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>"Holocene" means the most recent epoch of the Quaternary period extending from the end of the Pleistocene Epoch to the present.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Seismic Impact Zone. No solid waste disposal facility or landfill shall be located in a seismic impact zone unless the owner/operator demonstrates to the satisfaction of the Pueblo of Picuris Environment Department, and the Pueblo of Picuris Environment Department finds, that all containment structures including liners, leachate collection systems and surface water control systems, are designed to resist the maximum peak ground acceleration associated with the maximum credible earthquake. For purposes of this Section, "seismic impact zones" are defined as areas having a 10 percent or greater probability that the maximum expected horizontal acceleration in lithifield earth material, expressed as a percentage of the earth's gravitational pull (g), will exceed 0.10 g in 250 years.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Unstable Areas. No solid waste disposal facility or landfill shall be located in an unstable area. "Unstable area" means a location that is susceptible to natural or human-induced events or forces capable of impairing the integrity of some or all of the landfill structural components responsible for preventing releases from a landfill. Unstable areas can include poor foundation conditions, areas susceptible to mass movements, and Karst terrains.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Bodies of Water. No solid waste disposal site or landfill shall be located within 1,000 feet of a lake, pond, slough, river, stream, or other body of water. To the greatest extent possible, MSWLFs will be located substantially greater distances from any surface water of significance.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Adverse Impact. No MSWLF shall be located in a manner that will cause significant adverse impact to recreational opportunities, wildlife habitat or populations or Pueblo of Picuris aesthetics.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Dwellings. To the greatest extent possible, taking into account the requirements of this Ordinance, no MSWLF shall be located within 3,000 feet of a dwelling inhabited at the time the site is created.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Domestic Water Well. No solid waste disposal site or landfill shall be located within 2,000 feet of a domestic water well, unless the Pueblo of Picuris Environment Department determines in writing that the well will not be contaminated by the site and establishes a water monitoring program for the well, or the Pueblo of Picuris Environment Department provides a substitute source of equal or better convenience and quality.</text>
+        </para>
       </para>
       <para>
         <num>(B)</num>
         <text>Determination Prerequisites for Reservation of Site</text>
         <text>The following information shall be submitted to the Director for review and evaluation in order for a potential solid waste landfill site to be considered:</text>
-        <text>1)	A map or aerial photograph of the proposed site that shows all land within one mile of the proposed MSWLF site. The map or aerial photograph shall be of sufficient scale to show the entire property owned or leased for the disposal site by the person proposing the landfill, all homes, industrial buildings, wells, watercourses, rock outcroppings, roads and other applicable details and shall indicate the general topography.</text>
-        <text>2)	A summary of the geological formations and groundwater table to a depth of at least ten feet below the proposed excavation and at lowest elevation at the site. Such data shall be obtained by soil borings or other appropriate means.</text>
-        <text>3)	Identification of source and characteristics of cover material.</text>
-        <text>4)	Identification of watercourses within or adjacent to the proposed disposal site and, if no watercourse is involved, name of the watershed which will receive the drainage from the site.</text>
-        <text>5)	Any other information pertinent to the proposed site.</text>
+        <para>
+          <num>(1)</num>
+          <text>A map or aerial photograph of the proposed site that shows all land within one mile of the proposed MSWLF site. The map or aerial photograph shall be of sufficient scale to show the entire property owned or leased for the disposal site by the person proposing the landfill, all homes, industrial buildings, wells, watercourses, rock outcroppings, roads and other applicable details and shall indicate the general topography.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A summary of the geological formations and groundwater table to a depth of at least ten feet below the proposed excavation and at lowest elevation at the site. Such data shall be obtained by soil borings or other appropriate means.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Identification of source and characteristics of cover material.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Identification of watercourses within or adjacent to the proposed disposal site and, if no watercourse is involved, name of the watershed which will receive the drainage from the site.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Any other information pertinent to the proposed site.</text>
+        </para>
       </para>
     </section>
     <section>

@@ -235,14 +235,14 @@
       <heading>Probate Clerk</heading>
       <para>
         <num>A.</num>
-        <text>The probate judge shall appoint a probate clerk to fulfill the duties and responsibilities enumerated in §<cite path="14|1|14-1-8">14-1-8</cite> (B) (1) and (2) of this Code. If the probate judge elects to utilize the Pueblo of Picuris Tribal Court Clerk, rather than appoint a probate clerk, it shall be the prerogative of the probate judge.</text>
+        <text>The probate judge shall appoint a probate clerk to fulfill the duties and responsibilities enumerated in §14-1-8 (B) (1) and (2) of this Code. If the probate judge elects to utilize the Pueblo of Picuris Tribal Court Clerk, rather than appoint a probate clerk, it shall be the prerogative of the probate judge.</text>
       </para>
       <para>
         <num>B.</num>
         <text>The duties and responsibilities of the probate clerk:</text>
         <para>
           <num>(1)</num>
-          <text>Keep records and issue certified copies as provided in §<cite path="14|1|14-1-9">14-1-9</cite> of this Code.</text>
+          <text>Keep records and issue certified copies as provided in §14-1-9 of this Code.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -337,7 +337,7 @@
     <section>
       <num>14-5-2</num>
       <heading>Non-tribal members</heading>
-      <text>Intestate succession and distribution of non-tribal member decedent property shall be distributed through the proceeding set forth in §<cite path="14|1|14-1-12">14-1-12</cite> through §14-1-? Of this Code.</text>
+      <text>Intestate succession and distribution of non-tribal member decedent property shall be distributed through the proceeding set forth in §14-1-12 through §14-1-? Of this Code.</text>
     </section>
     <section>
       <num>14-5-3</num>
@@ -566,7 +566,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>Holographic Wills.   Will that does not comply with §<cite path="14|1|14-1-25">14-1-25</cite> of this Code is valid as a holographic will, whether or not witnessed, if the signature and the material provision are in the handwriting of the testator.</text>
+        <text>Holographic Wills.   Will that does not comply with §14-1-25 of this Code is valid as a holographic will, whether or not witnessed, if the signature and the material provision are in the handwriting of the testator.</text>
       </para>
       <para>
         <num>(C)</num>
@@ -909,14 +909,38 @@
       <para>
         <num>A.</num>
         <text>The petition for guardianship shall include the following, to the best information and belief of the petitioner.</text>
-        <text>1)	The full name, address and tribal affiliation of the petitioner;</text>
-        <text>2)	The full name, sex, date and place of birth, residence and tribal affiliation of the proposed ward;</text>
-        <text>3)	The basis for the Court's jurisdiction;</text>
-        <text>4)	The relationship of the proposed guardian to the proposed ward;</text>
-        <text>5)	The name and address of the person or agency having legal or temporary custody of the proposed ward;</text>
-        <text>6)	The type of guardianship requested;</text>
-        <text>7)	In the case of the alleged incompetent persons, the grounds for incompetency; and</text>
-        <text>8)	A full description and statement of value of all property owned, possessed, or in which the proposed ward has an interest (in guardianship of property is requested).</text>
+        <para>
+          <num>1.</num>
+          <text>The full name, address and tribal affiliation of the petitioner;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The full name, sex, date and place of birth, residence and tribal affiliation of the proposed ward;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The basis for the Court's jurisdiction;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The relationship of the proposed guardian to the proposed ward;</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>The name and address of the person or agency having legal or temporary custody of the proposed ward;</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>The type of guardianship requested;</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>In the case of the alleged incompetent persons, the grounds for incompetency; and</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>A full description and statement of value of all property owned, possessed, or in which the proposed ward has an interest (in guardianship of property is requested).</text>
+        </para>
       </para>
       <para>
         <num>B.</num>
@@ -941,11 +965,26 @@
       <para>
         <num>A.</num>
         <text>In the event that any guardian shall receive any money or funds of any child or incompetent person during their term of office as guardian, before taking and receiving into custody such money or funds, the Probate Judge must require of such person a bond with sufficient surety to be approved by the Probate Judge and in such sum as the Probate Judge shall order, conditioned that the guardian will faithfully execute the duties of their trust, and the following conditions shall form the part of such bond without being expressed therein:</text>
-        <text>1)	To make an inventory of all the estate of the ward that comes into their possession or knowledge and to return the same within such time as the Probate Judge may order, and;</text>
-        <text>2)	To dispose of and manage the estate according to law and for the best interests of the ward, and faithfully to discharge their trust in relation thereto, and also in relation to the care, custody and education of the ward, and;</text>
-        <text>3)	To render an account on oath of the property, estate and money of the ward in their hand and all the proceeds or interests derived therefore, and of the management and disposition of the same, within three (3) months after their appointment, and at such other times as the Probate Judge directs, and at the expiration of their trust, to settle their accounts with the Probate Judge or with the ward if the ward is of full age, or their legal representative, and to pay over and deliver all the estate, monies and effects remaining in their hands, or due from them on such settlement to the person who is legally entitled thereto;</text>
-        <text>4)	The funds of any child or incompetent must be used by their guardian solely for the support and education of such child and for the support of such incompetent, and shall be expended by the guardian in a reasonable manner according to the circumstances and station in life of such ward, and in such manner as can reasonable be afforded according to the income and estate of said ward;</text>
-        <text>5)	If determined to be appropriate by the Probate Judge, the written order may set forth that the child's property may not be used for the child's care, but rather to be managed for the child until the child reached the age of eighteen (18) or is emancipated by the Pueblo of Picuris Tribal Court.</text>
+        <para>
+          <num>1.</num>
+          <text>To make an inventory of all the estate of the ward that comes into their possession or knowledge and to return the same within such time as the Probate Judge may order, and;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>To dispose of and manage the estate according to law and for the best interests of the ward, and faithfully to discharge their trust in relation thereto, and also in relation to the care, custody and education of the ward, and;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>To render an account on oath of the property, estate and money of the ward in their hand and all the proceeds or interests derived therefore, and of the management and disposition of the same, within three (3) months after their appointment, and at such other times as the Probate Judge directs, and at the expiration of their trust, to settle their accounts with the Probate Judge or with the ward if the ward is of full age, or their legal representative, and to pay over and deliver all the estate, monies and effects remaining in their hands, or due from them on such settlement to the person who is legally entitled thereto;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The funds of any child or incompetent must be used by their guardian solely for the support and education of such child and for the support of such incompetent, and shall be expended by the guardian in a reasonable manner according to the circumstances and station in life of such ward, and in such manner as can reasonable be afforded according to the income and estate of said ward;</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>If determined to be appropriate by the Probate Judge, the written order may set forth that the child's property may not be used for the child's care, but rather to be managed for the child until the child reached the age of eighteen (18) or is emancipated by the Pueblo of Picuris Tribal Court.</text>
+        </para>
       </para>
     </section>
     <section>
