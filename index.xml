@@ -16,6 +16,7 @@
   <xi:include href="./us/nsn/picurispueblo/council/code/index.xml"/>
   <collection name="us/nsn/picurispueblo/council/resolutions">
     <heading>Resolutions</heading>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2025/index.xml"/>
     <xi:include href="./us/nsn/picurispueblo/council/resolutions/2019/index.xml"/>
     <xi:include href="./us/nsn/picurispueblo/council/resolutions/2018/index.xml"/>
     <xi:include href="./us/nsn/picurispueblo/council/resolutions/2016/index.xml"/>
