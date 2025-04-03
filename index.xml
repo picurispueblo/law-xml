@@ -12,6 +12,7 @@
       <static-assets>https://github.com/picurispueblo/law-static-assets</static-assets>
       <html>https://law.picurispueblo.org</html>
     </canonical-urls>
+    <history-start>2025-03-10</history-start>
   </meta>
   <xi:include href="./us/nsn/picurispueblo/council/code/index.xml"/>
   <collection name="us/nsn/picurispueblo/council/resolutions">
