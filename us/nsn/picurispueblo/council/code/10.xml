@@ -293,7 +293,7 @@
     <section>
       <num>10.02.060</num>
       <heading>Confidentiality.</heading>
-      <text>Any record or information obtained as a result of a proceeding covered by this Code and not otherwise covered by <cite path="§10.02.050">Section 10.02.050</cite> are confidential and shall be made available only to his/her representative, the minor's parent(s), guardian(s), Indian custodian(s) or custodian(s), or to such other person the Court determines has valid reasons to see such records.</text>
+      <text>Any record or information obtained as a result of a proceeding covered by this Code and not otherwise covered by <cite path="10|10.02|10.02.050">Section 10.02.050</cite> are confidential and shall be made available only to his/her representative, the minor's parent(s), guardian(s), Indian custodian(s) or custodian(s), or to such other person the Court determines has valid reasons to see such records.</text>
       <annotation type="Prior Codifications">§10.02.060 was formerly codified as 10-2-6</annotation>
     </section>
     <section>
@@ -620,7 +620,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>The Court's Order under <cite path="§10.05.030">this section</cite> is a final Order for the purposes of appeal.</text>
+        <text>The Court's Order under <cite path="10|10.05|10.05.030">this section</cite> is a final Order for the purposes of appeal.</text>
       </para>
       <annotation type="Prior Codifications">§10.05.030 was formerly codified as 10-5-3</annotation>
     </section>
@@ -633,7 +633,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Investigation and pre-transfer report shall be done by the Bureau of Indian Affairs Social Services. The Bureau of Indian Affairs Social Services shall conduct an investigation and file a written report with the Court within three (3) days of receipt of notice from the Tribal agent for service of notice. The report shall include facts which will assist the Court in making its decisions as required by <cite path="§10.05.040">this section</cite>, including but not limited to: parentage, family, existing relatives, reasons for minor being subject to Court jurisdiction, and, if transfer or intervention will be in the minor's best interest.</text>
+        <text>Investigation and pre-transfer report shall be done by the Bureau of Indian Affairs Social Services. The Bureau of Indian Affairs Social Services shall conduct an investigation and file a written report with the Court within three (3) days of receipt of notice from the Tribal agent for service of notice. The report shall include facts which will assist the Court in making its decisions as required by <cite path="10|10.05|10.05.040">this section</cite>, including but not limited to: parentage, family, existing relatives, reasons for minor being subject to Court jurisdiction, and, if transfer or intervention will be in the minor's best interest.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -698,7 +698,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Enforcement:	The Court may enforce any orders issued under <cite path="§10.05.050">this section</cite> by use of its contempt power.</text>
+        <text>Enforcement:	The Court may enforce any orders issued under <cite path="10|10.05|10.05.050">this section</cite> by use of its contempt power.</text>
       </para>
       <annotation type="Prior Codifications">§10.05.050 was formerly codified as 10-5-5</annotation>
     </section>
@@ -937,7 +937,7 @@
     <section>
       <num>10.06.150</num>
       <heading>Amendment of Pleadings; Postponements.</heading>
-      <text>When it appears, during the course of any proceeding in a child's case that the evidence presented alleges material facts not alleged in the petition, the Court may proceed to consider the additional or different matters raised by the evidence. In such event, the Court, on motion of any interested party or on its own motion, shall direct that the petition be amended to conform to the evidence. The Court shall grant such postponements as justice may require when a petition is amended under <cite path="§10.06.150">this section</cite>.</text>
+      <text>When it appears, during the course of any proceeding in a child's case that the evidence presented alleges material facts not alleged in the petition, the Court may proceed to consider the additional or different matters raised by the evidence. In such event, the Court, on motion of any interested party or on its own motion, shall direct that the petition be amended to conform to the evidence. The Court shall grant such postponements as justice may require when a petition is amended under <cite path="10|10.06|10.06.150">this section</cite>.</text>
       <annotation type="Prior Codifications">§10.06.150 was formerly codified as 10-6-15</annotation>
     </section>
     <section>
@@ -1226,7 +1226,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Deliver, immediately, the minor to the detention or shelter care as designated by the Court, or to a medical facility if the minor is believed to need prompt medical treatment. All notifications required by <cite path="§10.09.040">this section</cite> shall be made directly to the Court, notwithstanding weekends or holidays.</text>
+          <text>Deliver, immediately, the minor to the detention or shelter care as designated by the Court, or to a medical facility if the minor is believed to need prompt medical treatment. All notifications required by <cite path="10|10.09|10.09.040">this section</cite> shall be made directly to the Court, notwithstanding weekends or holidays.</text>
         </para>
       </para>
       <para>
@@ -1238,7 +1238,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Release the minor to his/her parent, guardian or custodian unless detention or shelter care is appropriate pursuant to <cite path="§10.09.040">this section</cite>; and</text>
+          <text>Release the minor to his/her parent, guardian or custodian unless detention or shelter care is appropriate pursuant to <cite path="10|10.09|10.09.040">this section</cite>; and</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1266,7 +1266,7 @@
     <section>
       <num>10.09.050</num>
       <heading>Delivery of Minor to Detention or Shelter Care.</heading>
-      <text>If a minor's parent, guardian or custodian cannot be found, and if there is no relative to whom the minor may be released, or if circumstances pursuant to <cite path="§10.09.040|(c)">Section 10.09.040(c)</cite> of this Code arise, the minor shall be delivered to a place of detention or shelter care designated by the Court. The Indian Child Welfare Act (ICWA) Director shall immediately make arrangements for the temporary care and custody of the minor.</text>
+      <text>If a minor's parent, guardian or custodian cannot be found, and if there is no relative to whom the minor may be released, or if circumstances pursuant to <cite path="10|10.09|10.09.040|(c)">Section 10.09.040(c)</cite> of this Code arise, the minor shall be delivered to a place of detention or shelter care designated by the Court. The Indian Child Welfare Act (ICWA) Director shall immediately make arrangements for the temporary care and custody of the minor.</text>
       <annotation type="Prior Codifications">§10.09.050 was formerly codified as 10-9-5</annotation>
     </section>
     <section>
@@ -1394,7 +1394,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Plea: If the minor wishes to admit that he/she has committed the alleged illegal act, the Court shall proceed as required in <cite path="§10.09.060|(g)">Section 10.09.060(g)</cite> of this Code.</text>
+        <text>Plea: If the minor wishes to admit that he/she has committed the alleged illegal act, the Court shall proceed as required in <cite path="10|10.09|10.09.060|(g)">Section 10.09.060(g)</cite> of this Code.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -1796,7 +1796,7 @@
     <section>
       <num>10.11.010</num>
       <heading>Removal of Minor from Home; Requirements</heading>
-      <text>The removal of a minor from his/her home for foster care placement, termination of parental rights and pre-adoption placement must result from a judicial determination that continuation would be contrary to the welfare of each minor. Reasonable efforts are to be made before foster care placement, termination of parental rights and pre-adoption placement to prevent or eliminate the need to remove the minor from his/her home and reasonable efforts are to be made for the minor's return to his/her home and removal is in the best interest of the minor. Nothing in <cite path="§10.11.010">this section</cite> prevents the emergency removal of a minor as allowed by the Children's Code, pursuant to <cite path="§10.10.010">Section 10.10.010</cite>.</text>
+      <text>The removal of a minor from his/her home for foster care placement, termination of parental rights and pre-adoption placement must result from a judicial determination that continuation would be contrary to the welfare of each minor. Reasonable efforts are to be made before foster care placement, termination of parental rights and pre-adoption placement to prevent or eliminate the need to remove the minor from his/her home and reasonable efforts are to be made for the minor's return to his/her home and removal is in the best interest of the minor. Nothing in <cite path="10|10.11|10.11.010">this section</cite> prevents the emergency removal of a minor as allowed by the Children's Code, pursuant to <cite path="10|10.10|10.10.010">Section 10.10.010</cite>.</text>
       <annotation type="Prior Codifications">§10.11.010 was formerly codified as 10-11-1</annotation>
     </section>
     <section>
@@ -2804,7 +2804,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>If unexcused absences continue after written notice of habitual truancy, as provided in Subsection B of <cite path="§10.15.030">this section</cite> has occurred, the student shall be reported to the Indian Child Welfare Act (ICWA) office of the Pueblo of Picuris for an investigation as to whether the student shall be considered to be a neglected child or a child in a family in need of services because of habitual truancy and thus subject to the provisions of the Pueblo of Picuris Children's Code [32A-1-1 NMSA 1978]. In addition to any other disposition, the Children's Court may order the habitual truant's driving privileges to be suspended for a specified time not to exceed ninety (90) days on the first finding of a habitual truancy and not to exceed one year for a subsequent finding of habitual truancy.</text>
+        <text>If unexcused absences continue after written notice of habitual truancy, as provided in Subsection B of <cite path="10|10.15|10.15.030">this section</cite> has occurred, the student shall be reported to the Indian Child Welfare Act (ICWA) office of the Pueblo of Picuris for an investigation as to whether the student shall be considered to be a neglected child or a child in a family in need of services because of habitual truancy and thus subject to the provisions of the Pueblo of Picuris Children's Code [32A-1-1 NMSA 1978]. In addition to any other disposition, the Children's Court may order the habitual truant's driving privileges to be suspended for a specified time not to exceed ninety (90) days on the first finding of a habitual truancy and not to exceed one year for a subsequent finding of habitual truancy.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -2812,7 +2812,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>A parent of a student, after receiving written notice as provided in Subsection B of <cite path="§10.15.030">this section</cite> and after the matter has been reviewed in accordance with Subsection D of <cite path="§10.15.030">this section</cite>, knowingly allows the student to continue to violate the Compulsory School Attendance Law shall be guilty of a Class C Offense. Upon the first conviction, a fine of not less than twenty- five dollars ($25.00) or more than five hundred dollars ($500.00) may be imposed, or the parent of the student may be ordered to perform community service. If violations of the Compulsory School Attendance Law continue, upon the second and subsequent convictions, the parent(s) of the student who knowingly allows the student to continue to violate the Compulsory School Attendance Law shall be guilty of a Class B Offense and shall be subject to a fine of not more than one thousand dollars ($1,000.00) or imprisonment for a definite term not to exceed six (6) months or both.</text>
+        <text>A parent of a student, after receiving written notice as provided in Subsection B of <cite path="10|10.15|10.15.030">this section</cite> and after the matter has been reviewed in accordance with Subsection D of <cite path="10|10.15|10.15.030">this section</cite>, knowingly allows the student to continue to violate the Compulsory School Attendance Law shall be guilty of a Class C Offense. Upon the first conviction, a fine of not less than twenty- five dollars ($25.00) or more than five hundred dollars ($500.00) may be imposed, or the parent of the student may be ordered to perform community service. If violations of the Compulsory School Attendance Law continue, upon the second and subsequent convictions, the parent(s) of the student who knowingly allows the student to continue to violate the Compulsory School Attendance Law shall be guilty of a Class B Offense and shall be subject to a fine of not more than one thousand dollars ($1,000.00) or imprisonment for a definite term not to exceed six (6) months or both.</text>
       </para>
       <annotation type="Prior Codifications">§10.15.030 was formerly codified as 10-15-3</annotation>
     </section>
@@ -2870,7 +2870,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Findings: If the Court finds that the requirements of <cite path="§10.17.020">Section 10.17.020</cite> are met, the Court may grant the petition, unless, after having considered all of the evidence, it finds that emancipation would not be in the best interests of the child.</text>
+        <text>Findings: If the Court finds that the requirements of <cite path="10|10.17|10.17.020">Section 10.17.020</cite> are met, the Court may grant the petition, unless, after having considered all of the evidence, it finds that emancipation would not be in the best interests of the child.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -2881,7 +2881,7 @@
     <section>
       <num>10.16.040</num>
       <heading>Purpose for Emancipation.</heading>
-      <text>An emancipated minor is subject to the continuing jurisdiction of the Pueblo of Picuris Children's Court and is subject to the laws requiring compulsory school attendance until he/she reaches the age of eighteen (18) or meets the requirements of <cite path="§10.16.010">Section 10.16.010</cite> of this Code.</text>
+      <text>An emancipated minor is subject to the continuing jurisdiction of the Pueblo of Picuris Children's Court and is subject to the laws requiring compulsory school attendance until he/she reaches the age of eighteen (18) or meets the requirements of <cite path="10|10.16|10.16.010">Section 10.16.010</cite> of this Code.</text>
       <annotation type="Prior Codifications">§10.16.040 was formerly codified as 10-16-4</annotation>
     </section>
   </container>
